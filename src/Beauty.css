@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@500&display=swap');
+.ul {
+    width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0 auto;
+  color: aliceblue;
+  padding: 24px 0;
+}
+.ul li {
+    font-family: 'Manrope';
+    font-size: 12px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.list {
+  height: 33px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  font-family: Manrope;
+  padding: 20px;
+  letter-spacing: 0.03em;
+  color: #000000;
+  align-items: center;
+}
+
+.gucci-head {
+  margin-left: 419px;
+  color: whitesmoke;
+  font-family: "Gelasio";
+  font-size: 34px;
+  letter-spacing: 11px;
+  margin-top: 21px;
+  margin-bottom: 11px;
+}
+
+
+.location {
+  width: 12px;
+  margin-top: 17px;
+  margin-left: 17px;
+  height: 12px;
+  
+}
+
+.phone {
+    margin-top: 17px;
+    margin-left: 90px;
+    width: 12px;
+    height: 12px;
+}
+.telefon {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+
+.header-img {
+
+  display: flex;
+}
+
+.header-phone {
+
+    display: flex;
+  }
+
+.turk {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+
+
+}
+
+.header12 {
+    height: 630px;
+    background-image: url('/gucci/beauty.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+
+.main1 {
+  height: 420px;
+  background-image: url('/gucci/main-img1.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  margin-top: 100px;
+}

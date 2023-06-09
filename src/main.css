@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  font: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+
+.gucci {
+  color: white;
+  font-family: Outfit;
+  font-size: 38px;
+  letter-spacing: 15px;
+  margin-bottom: 23px;
+  margin-top: 20px;
+  text-shadow: 0 0 2px black;
+}
+
+.welcome {
+  font-family: Outfit;
+  margin-bottom: 85px;
+  color: whitesmoke;
+  font-size: 32px;
+  letter-spacing: 1px;
+
+}
+
+.please {
+  font-family: Outfit;
+  font-size: 16px;
+  color: whitesmoke;
+
+}
+
+.model {
+  background-image: url('/gucci/model.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+}
+.model::before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-color: rgba(0,0,0, 0.1);
+}
+
+
+.content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+

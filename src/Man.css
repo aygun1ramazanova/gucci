@@ -1,0 +1,171 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@500&display=swap');
+.ul {
+    width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0 auto;
+  color: aliceblue;
+  padding: 24px 0;
+}
+.ul li {
+    font-family: 'Manrope';
+    font-size: 12px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.list {
+  height: 33px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  font-family: Manrope;
+  padding: 20px;
+  letter-spacing: 0.03em;
+  color: #000000;
+  align-items: center;
+}
+
+.gucci-head {
+  margin-left: 419px;
+  color: whitesmoke;
+  font-family: "Gelasio";
+  font-size: 34px;
+  letter-spacing: 11px;
+  margin-top: 21px;
+  margin-bottom: 11px;
+}
+
+
+.location {
+  width: 12px;
+  margin-top: 17px;
+  margin-left: 17px;
+  height: 12px;
+  
+}
+
+.phone {
+    margin-top: 17px;
+    margin-left: 90px;
+    width: 12px;
+    height: 12px;
+}
+.telefon {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+
+.header-img {
+
+  display: flex;
+}
+
+.header-phone {
+
+    display: flex;
+  }
+
+.turk {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+
+
+}
+
+.header4 {
+    height: 630px;
+    background-image: url('/gucci/menn.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+
+.main1 {
+  height: 420px;
+  background-image: url('/gucci/menn.webp');
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.main {
+    display: flex;
+}
+
+.third {
+    display: flex;
+}
+
+.fourth {
+    display: flex;
+}
+
+.men {
+    margin-left: 2px;
+    width: 90%;
+    height: 110%;
+    margin-top: 30px;
+    margin-left: 130px;
+    margin-right: 120px;
+
+}
+
+.men1 {
+    margin-left: 80px;
+    margin-top: 29px;
+    width: 82%;
+    height: 80%;
+
+}
+
+.men2 {
+    margin-left: 80px;
+    width: 83%;
+    height: 80%;
+
+}
+
+.men3 {
+    margin-left: 75px;
+    width: 92%;
+    height: 80%;
+
+}
+
+.men4 {
+    margin-left: 40px;
+    width: 88%;
+    height: 80%;
+
+}
+
+.men5 {
+    margin-left: 70px;
+    width: 90%;
+    height: 80%;
+
+}
+
+.men6 {
+    width: 90%;
+    height: 80%;
+
+}
+
+.men7 {
+    margin-left: 10px;
+    width: 90%;
+    height: 80%;
+
+}

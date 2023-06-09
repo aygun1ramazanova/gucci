@@ -1,0 +1,1 @@
+define(["eventDispatcher","vanillaLazyload","genericUtilities"],function(e,n,l){function i(){new n({elements_selector:".lazy",threshold:1e3,callback_reveal:function(e){l.reloadPicturefillImagesWhenNeeded(e,!0)}})}return{load:function(){function n(){}i(),e.dispatchAndListen("lazyLoadingGlobal",n)}}});

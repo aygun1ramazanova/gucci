@@ -1,0 +1,35 @@
+.select {
+  margin-top: 20px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 340px;
+    font-family: Outfit;
+    font-size: 12px;
+    color: black;
+  }
+  
+  .button:disabled {
+    padding: 13px;
+    margin: 20px;
+    width: 340px;
+    font-family: Outfit;
+    font-size: 13px;
+    border-color: transparent;
+    color: white;
+  }
+  
+  .button:enabled {
+    padding: 13px;
+    margin: 20px;
+    width: 340px;
+    font-family: Outfit;
+    font-size: 13px;
+    background-color: rgb(213, 213, 213) ;
+    color: rgb(28, 27, 27);
+    border: 0px;
+    border-radius: 6px;
+    background: #d6d6d6;
+    box-shadow:  23px -23px 45px #ffffff;
+  }
+  

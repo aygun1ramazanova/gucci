@@ -1,0 +1,356 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@500&display=swap');
+.ul {
+    width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0 auto;
+  color: aliceblue;
+  padding: 24px 0;
+}
+.ul li {
+    font-family: 'Manrope';
+    font-size: 12px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.list {
+  height: 33px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  font-family: Manrope;
+  padding: 20px;
+  letter-spacing: 0.03em;
+  color: #000000;
+  align-items: center;
+}
+
+.gucci-head {
+  margin-left: 419px;
+  color: whitesmoke;
+  font-family: "Gelasio";
+  font-size: 34px;
+  letter-spacing: 11px;
+  margin-top: 21px;
+  margin-bottom: 11px;
+}
+
+
+.location {
+  width: 12px;
+  margin-top: 17px;
+  margin-left: 17px;
+  height: 12px;
+  
+}
+
+.phone {
+    margin-top: 17px;
+    margin-left: 90px;
+    width: 12px;
+    height: 12px;
+}
+.telefon {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+
+.header-img {
+
+  display: flex;
+}
+
+.header-phone {
+
+    display: flex;
+  }
+
+.turk {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+
+
+}
+.header2 {
+  height: 300px;
+  background-image: url('/gucci/gucci4.jpg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+
+
+.main.img1 {
+
+}
+
+.p1 {
+  font-family: Outfit;
+  font-size: 35px;
+  letter-spacing: 2px;
+  margin: 30px;
+}
+
+.button-main1 {
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #000000;
+  border: 1px solid;
+  border-radius: 1px;
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.shop-button {
+  color: aliceblue;
+  font-family: Outfit;
+}
+
+.main-bag {
+  display: flex;
+
+}
+
+.bag1-webp {
+  width: 500px;
+  height: 400px;
+}
+
+.bag2-webp {
+  width: 500px;
+  height: 400px;
+}
+
+.bag3-webp {
+  width: 500px;
+  height: 400px;
+}
+
+.p-bag1 {
+  font-family: Outfit;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-left: 50px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+
+
+.bag1 {
+  background-color: #000000;
+  border: 1px solid;
+  border-radius: 1px;
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 180px;
+}
+
+.shop-button1 {
+  color: aliceblue;
+  font-family: Outfit;
+  
+
+}
+
+.button1 {
+  align-items: center;
+  margin-top: 50px;
+}
+
+
+.p-bag2 {
+  font-family: Outfit;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-left: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+
+
+.bag2 {
+  background-color: #000000;
+  border: 1px solid;
+  border-radius: 1px;
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 180px;
+}
+
+.shop-button2 {
+  color: aliceblue;
+  font-family: Outfit;
+  
+
+}
+
+.button2 {
+  align-items: center;
+  margin-top: 50px;
+}
+
+
+.p-bag3 {
+  font-family: Outfit;
+  font-size: 15px;
+  letter-spacing: 2px;
+  margin-left: 100px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
+
+
+
+.bag3 {
+  background-color: #000000;
+  border: 1px solid;
+  border-radius: 1px;
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 180px;
+}
+
+.shop-button3 {
+  color: aliceblue;
+  font-family: Outfit;
+}
+
+.button3 {
+  align-items: center;
+  margin-top: 50px;
+}
+
+.hh {
+  margin-top: 1420px;
+  margin-left: 20px;
+}
+
+.hh-inside {
+  background-image: url('/gucci/main.img2.jpg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  height: 800px;
+}
+
+.class-button {
+  background-color: aliceblue;
+  width: 170px;
+  height: 200px;
+  margin-top: 200px;
+  margin-left: 630px;
+  border: 0px solid;
+}
+
+.lastt {
+  font-family: Outfit;
+  font-size: 25px;
+  color: rgb(131, 131, 131);
+}
+
+.discover {
+  font-family: Outfit;
+  font-size: 12px;
+  color: rgb(131, 131, 131);
+}
+
+.title {
+  font-family: Outfit;
+  font-size: 32px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin-left: 700px;
+  margin-top: 55px;
+}
+
+.main {
+    display: flex;
+    margin-top: 80px;
+  
+}
+
+.photo1 {
+  margin-right: 50px;
+  margin-left: 150px;
+}
+
+.photo2 {
+  margin-right: 50px;
+
+}
+
+.photo11 {
+  font-family: Outfit;
+  margin-top: 40px;
+  font-size: 20px;
+  margin-left: 200px;
+}
+
+.photo22 {
+  font-family: Outfit;
+  margin-top: 40px;
+  font-size: 20px;
+  margin-left: 60px;
+}
+
+.photo33 {
+  font-family: Outfit;
+  margin-top: 40px;
+  font-size: 20px;
+  margin-left: 120px;
+}
+
+.photo111 {
+  font-family: Outfit;
+  font-size: 12px;
+  margin-left: 260px;
+}
+
+.photo222 {
+  font-family: Outfit;
+  font-size: 12px;
+  margin-left: 130px;
+}
+
+.photo333 {
+  font-family: Outfit;
+  font-size: 12px;
+  margin-left: 140px;
+}
+
+.end-button {
+  height: 447px;
+  width: 1460px;
+  background-color: #1c1c1c;
+  margin-top: 75px;
+
+}
+

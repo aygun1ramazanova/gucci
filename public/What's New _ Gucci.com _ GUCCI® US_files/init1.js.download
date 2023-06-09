@@ -1,0 +1,95 @@
+//<script>
+bouncex.init1Response({
+    "brand_styles": false,
+    "webfonts": false,
+    "cookie": {
+        "did": "2208445148779896431",
+        "vid": 1686135873324221,
+        "v": {
+            "ever_logged_in": false,
+            "cart_value": 0,
+            "submitted_onsite": false,
+            "cart": false,
+            "tracked_cart_images": false,
+            "logged_in_identified": false,
+            "cart_replen": false
+        },
+        "sid": 36,
+        "fvt": 1685821376,
+        "ao": 0,
+        "lp": "https%3A%2F%2Fwww.gucci.com%2Fus%2Fen%2Fst%2Fgifts",
+        "as": 0,
+        "vpv": 10,
+        "d": "d",
+        "r": "www.gucci.com",
+        "cvt": 1686135873,
+        "gcr": 78,
+        "m": 0,
+        "lvt": 1686138549,
+        "dgFirstLoad": true
+    },
+    "debug": false,
+    "testmode": {
+        "bxtest": false,
+        "office": false,
+        "bxdev": false
+    },
+    "state": {
+        "newvid": false,
+        "iol": false,
+        "tn": 1686138549,
+        "pvid": 10,
+        "gdpr": false,
+        "casl": false,
+        "device": {
+            "browser": "Chrome",
+            "version": "113.0.0.0",
+            "platform": "Windows 10",
+            "device_type": "desktop"
+        },
+        "no_kinesis": true,
+        "request_token": "4f053ff59c90151fb201623e4f6f419cc979107d950d57a4ba1d80510ee0cb48",
+        "mobile": false,
+        "vip": "62.212.226.125",
+        "geo": {
+            "country": "AZ",
+            "country_code": "AZ",
+            "country_code3": "AZE",
+            "country_name": "Azerbaijan",
+            "region": "BA",
+            "region_name": "Baku City",
+            "city": "Baku",
+            "postal_code": null,
+            "zip": null,
+            "area_code": "",
+            "dma_code": null,
+            "metro_code": null,
+            "continent_code": "AS",
+            "google": {
+                "zip": "",
+                "country": "AZ",
+                "country_code": "AZ",
+                "region": "",
+                "city": "Baku",
+                "continent_code": "AS",
+                "country_name": "Azerbaijan",
+                "region_name": ""
+            }
+        }
+    },
+    "gbi_stacks": false,
+    "creatives": false,
+    "campaigns": false,
+    "gbi2_enabled": false,
+    "ssp_config": false,
+    "push_filepath": "\/",
+    "sms_enabled": false,
+    "sms_terms_conditions_link": "",
+    "sms_short_codes": [],
+    "brand_name": "",
+    "ads_config": {},
+    "visit_cookie_updates": {
+        "is_go_session": false,
+        "is_gp_session": false
+    }
+});

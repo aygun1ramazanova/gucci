@@ -1,0 +1,709 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@500&display=swap');
+
+.ul {
+    width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  list-style-type: none;
+  margin: 0 auto;
+  color: aliceblue;
+  padding: 24px 0;
+}
+.ul li {
+    font-family: 'Manrope';
+    font-size: 12px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.list {
+  height: 33px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  font-family: Manrope;
+  padding: 20px;
+  letter-spacing: 0.03em;
+  color: #000000;
+  align-items: center;
+}
+
+.gucci-head {
+  margin-left: 419px;
+  color: whitesmoke;
+  font-family: "Gelasio";
+  font-size: 34px;
+  letter-spacing: 11px;
+  margin-top: 21px;
+  margin-bottom: 11px;
+}
+
+
+.location {
+  width: 12px;
+  margin-top: 17px;
+  margin-left: 17px;
+  height: 12px;
+  
+}
+
+.phone {
+    margin-top: 17px;
+    margin-left: 90px;
+    width: 12px;
+    height: 12px;
+}
+.telefon {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+
+.header-img {
+
+  display: flex;
+}
+
+.header-phone {
+
+    display: flex;
+  }
+
+.turk {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+
+
+}
+
+.header5 {
+    height: 630px;
+    background-image: url('/gucci/new.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+
+.main1 {
+  height: 420px;
+  background-image: url('/gucci/new.webp');
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+.new {
+    margin-top: 100px;
+    font-size: 45px;
+    font-family: Poiret One;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-left: 50px;
+}
+
+.new2 {
+    display: flex;
+    margin-top: 27px;
+    margin-left: 230px;
+}
+
+.img1 {
+    margin-right: 190px;
+}
+
+.women {
+    font-family: Poiret One;
+    font-size: 32px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin: 30px 0px 50px 180px;
+}
+
+.womenu {
+    font-family: Outfit;
+    font-size: 11px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin-left: 160px;
+
+}
+
+.man {
+    font-family: Poiret One;
+    font-size: 32px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin: 30px 0px 50px 190px;
+}
+
+.manu {
+    font-family: Outfit;
+    font-size: 11px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    margin-left: 194px;
+
+}
+
+.img3 {
+    background-image: url('./gucci/newimg4.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+
+}
+
+.img3::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+
+.img4 {
+    background-image: url('./gucci/newimg5.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1;
+    position: relative;
+}
+
+.img4::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+.img5 {
+    background-image: url('./gucci/newimg6.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+
+}
+
+
+.img5::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+
+.img6 {
+    background-image: url('./gucci/newimg7.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+    
+}
+
+.img6::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+.img10 {
+    background-image: url('./gucci/newimg10.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+}
+
+.img10::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+
+.img11 {
+    background-image: url('./gucci/newimg11.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+}
+
+.img11::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+
+
+
+.img7 {
+    background-image: url('./gucci/newimg8.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    z-index: 1;
+    position: relative;
+}
+
+.img7::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: rgba(0,0,0,0.5);
+  }
+
+
+
+.img8 {
+    background-image: url('./gucci/fatherimg2.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gift1 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday1.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift2 {
+
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday2.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift3 {
+
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday3.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift4 {
+
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday4.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift5 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday5.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift6 {
+
+     width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday6.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift7 {
+
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday7.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift8 {
+
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday8.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift9 {
+
+        width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday9.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift10 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday10.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .gift11 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday11.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .gift12 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday12.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .gift13 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday13.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .gift14 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday14.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .gift15 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday15.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .gift16 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday16.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .gift17 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday17.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .gift18 {
+    width: 364px;
+    height: 364px;
+    background-image: url('/gucci/fathersday18.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .aynn1 {
+    display: flex;
+  } 
+
+  .aynn2 {
+    display: flex;
+  }
+
+  .aynn3 {
+    display: flex;
+  }
+
+  .aynn4 {
+    display: flex;
+  }
+
+  .aynn5 {
+    display: flex;
+  }
+
+
+  
+  
+.p {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+.b {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+}
+
+.sum1 {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+.n1 {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+}
+
+.sum2 {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+.n2 {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+    margin-top: 10px;
+}
+
+.sum3 {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+
+.ne {
+  margin-top: 150px;
+  text-align: center;
+  font-size: 50px;
+  font-family: Outfit;
+  color: aliceblue;
+  margin-left: 18px;
+}
+
+.n3 {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+
+.sum4 {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+.n4 {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.p5 {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+.b5 {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+    margin-left: 137px;
+    margin-top: 20px;
+    
+}
+
+.p6 {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+.b6 {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+    margin-left: 186px;
+    margin-top: 20px;
+}
+
+.p7 {
+    font-family: Outfit;
+    font-size: 47px;
+    color: aliceblue;
+}
+
+.b7 {
+    border: 1px solid aliceblue;
+    font-size: 11px;
+    font-family: Outfit;
+    padding: 15px 20px;
+    font-weight: bold;
+    border: 2px;
+    margin-left: 70px;
+    margin-top: 20px;
+}

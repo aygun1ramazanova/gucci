@@ -1,0 +1,402 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:wght@500&display=swap');
+
+.ul {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0 auto;
+    color: aliceblue;
+    padding: 24px 0;
+}
+
+.ul li {
+    font-family: 'Manrope';
+    font-size: 12px;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.list {
+    height: 33px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    font-family: Manrope;
+    padding: 20px;
+    letter-spacing: 0.03em;
+    color: #000000;
+    align-items: center;
+}
+
+.gucci-head {
+    margin-left: 419px;
+    color: whitesmoke;
+    font-family: "Gelasio";
+    font-size: 34px;
+    letter-spacing: 11px;
+    margin-top: 21px;
+    margin-bottom: 11px;
+}
+
+
+.location {
+    width: 12px;
+    margin-top: 17px;
+    margin-left: 17px;
+    height: 12px;
+
+}
+
+.phone {
+    margin-top: 17px;
+    margin-left: 90px;
+    width: 12px;
+    height: 12px;
+}
+
+.telefon {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+
+.header-img {
+
+    display: flex;
+}
+
+.header-phone {
+
+    display: flex;
+}
+
+.turk {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+
+
+}
+
+.header1 {
+    height: 650px;
+    background-image: url('/gucci/father.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+
+}
+
+.main1 {
+    height: 420px;
+    background-image: url('/gucci/main-img1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.location {
+    width: 12px;
+    margin-top: 17px;
+    margin-left: 17px;
+    height: 12px;
+
+}
+
+.phone {
+    margin-top: 17px;
+    margin-left: 90px;
+    width: 12px;
+    height: 12px;
+}
+
+.telefon {
+    font-family: Outfit;
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.pg {
+    font-family: Outfit;
+    font-size: 20px;
+    margin-top: 50px;
+    color: #000000;
+}
+
+.bg {
+    font-family: Outfit;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.gift-p {
+    text-align: center;
+}
+
+.father1 {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.giftf {
+    text-align: center;
+    font-family: Outfit;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.u1 {
+    text-align: center;
+    font-family: 14px;
+    font-size: 10px;
+    font-family: Outfit;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.father2 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.giftf {
+    text-align: center;
+    font-family: Outfit;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.u2 {
+    text-align: center;
+    font-family: 14px;
+    font-size: 10px;
+    font-family: Outfit;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.father3 {
+    margin-top: 50px;
+}
+
+.round {
+    margin-top: 50px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.fathersday54 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+    border-radius: 131px;
+    background: #f0efef;
+    box-shadow: 20px 20px 60px #cccbcb,
+        -20px -20px 60px #ffffff;
+    text-align: center;
+}
+
+
+.fathersday55 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+    border-radius: 131px;
+    background: #f0efef;
+    box-shadow: 20px 20px 60px #cccbcb,
+        -20px -20px 60px #ffffff;
+    text-align: center;
+}
+
+
+.fathersday56 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+    border-radius: 131px;
+    background: #f0efef;
+    box-shadow: 20px 20px 60px #cccbcb,
+        -20px -20px 60px #ffffff;
+    text-align: center;
+}
+
+.fathersday54 img {
+    width: 100%;
+    height: 100%;
+}
+
+.father54 {
+    font-size: 15px;
+    font-family: Outfit;
+    margin-top: 25px;
+    letter-spacing: 1px;
+}
+
+.father55 {
+    font-size: 15px;
+    font-family: Outfit;
+    margin-top: 25px;
+    letter-spacing: 1px;
+}
+
+.father56 {
+    font-size: 15px;
+    font-family: Outfit;
+    margin-top: 25px;
+    letter-spacing: 1px;
+}
+
+.him-all {
+    display: flex;
+    margin-top: 70px;
+
+}
+
+.him {
+    margin-left: 470px;
+    font-family: Outfit;
+    font-size: 12px;
+}
+
+.all {
+    color: aliceblue;
+    padding: 14px 21px;
+    border: 1px solid;
+    margin-left: 0px;
+}
+
+.fatheral {
+    margin-top: 50px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.father10 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+    border-radius: 131px;
+    background: #f0efef;
+    box-shadow: 20px 20px 60px #cccbcb,
+        -20px -20px 60px #ffffff;
+    text-align: center;
+    font-size: 15px;
+    font-family: Outfit;
+    margin-top: 25px;
+    letter-spacing: 1px;
+}
+
+.father9 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 20px;
+    background: #f0efef;
+    box-shadow: 20px 20px 60px #cccbcb,
+        -20px -20px 60px #ffffff;
+    text-align: center;
+    font-size: 15px;
+    font-family: Outfit;
+    margin-top: 25px;
+    letter-spacing: 1px;
+}
+
+.father9-img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border-radius: 50%
+}
+
+.father10-img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border-radius: 50%
+}
+
+.fatherimg {
+    background-image: url('./gucci/father-img.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    margin: 50px auto;
+    width: 100%;
+    height: 900px;
+}
+
+.father {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.f {
+    display: flex;
+    margin-top: 60px;
+}
+
+.father4 {
+    width: 170px;
+    height: 170px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.father5 {
+    width: 170px;
+    height: 170px;
+    margin: 0px 200px;
+}
+
+.father6 {
+    width: 170px;
+    height: 170px;
+}
+
+
+.incol {
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 30px;
+    font-family: Outfit;
+    font-size: 18px;
+}
+
+
+.flexcheck {
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-family: Outfit;
+    font-size: 18px;
+
+}
+
+.experson {
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-family: Outfit;
+    font-size: 18px;
+
+}
