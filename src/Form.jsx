@@ -2,7 +2,6 @@ import { Component } from "react";
 import { Link } from "react-router-dom";
 import "./Form.css";
 import location from '/gucci/location.png';
-import telephone from '/gucci/telephone.png';
 import main from '/gucci/main.img1.jpg';
 import bag from '/gucci/bag1.webp';
 import tag from '/gucci/bag2.webp';
@@ -22,10 +21,6 @@ class Form extends Component {
                         <div className="header-img">
                             <img className="location" src={location} alt="" />
                             <p className="turk">Turkey</p>
-                            <div className="header-phone">
-                                <img className="phone" src={telephone} alt="" />
-                                <p className="telefon"> +39 0550622949</p>
-                            </div>
                             <p className="gucci-head"> GUCCI </p>
                         </div>
                         <div className="header-ul">
@@ -74,14 +69,14 @@ class Form extends Component {
                                 </li>
                                 <li>
                                     <div>
-                                        <Link data-di-id="gifts_2" to="us/en/ca/jewelry-watches-c-jewelry-watches">
+                                        <Link data-di-id="gifts_2" to="/jewelry">
                                             JEWELERY AND WATCHES
                                         </Link>
                                     </div>
                                 </li>
                                 <li>
                                     <div>
-                                        <Link data-di-id="gifts_2" to="us/en/ca/beauty-c-beauty">
+                                        <Link data-di-id="gifts_2" to="/beauty">
                                             BEAUTY
                                         </Link>
                                     </div>
@@ -167,9 +162,82 @@ class Form extends Component {
                     </div>
                     <div className="end">
                         <button className="end-button">
-                            {/* <div>
-                            <img className="facebook" src={facebook} alt="" />
-                            </div> */}
+                            <div className="endbtnf">
+                                <div>
+                                    <p className="pp111">MAY WE HELP YOU?</p>
+                                    <br />
+                                    <div>
+                                    <a className="href1" href="https://www.gucci.com/us/en/st/contact-us">Contact Us</a>
+                                    </div>
+                                <br />
+                                <div>
+                                <a className="href2" href="https://www.gucci.com/us/en/my-account/orders">My Order</a>
+                                </div>
+                                <br />
+                                <div>
+                                <a className="href3" href="https://www.gucci.com/us/en/st/faq">FAQS</a>
+                                </div>
+                                <br />
+                                <div>
+                                <a className="href4" href="https://www.gucci.com/us/en/newsletters/unsubscribe">Email Unsubcribes</a>
+                                </div>
+                                <br />
+                                <a className="href5" href="https://www.gucci.com/us/en/st/sitemap">Sitemap</a>
+                                </div>
+                                <div>
+                                    <p className="pp222">THE COMPANY</p>
+                                    <br />
+                                    <div>
+                                    <a className="href6" href="https://www.gucci.com/us/en/st/about-gucci">About Gucci</a>
+                                    </div>
+                                    <br />
+                                    <div>
+                                    <a className="href7" href="https://equilibrium.gucci.com/">Gucci Eluqilibrim</a>
+                                    </div>
+                                    <br />
+                                    <div>
+                                    <a className="href8" href="https://www.gucci.com/us/en/st/code-ethics">Code of Ethics</a>
+                                    </div>
+                                    <br />
+                                    <div>
+                                    <a className="href9" href="https://careers.gucci.com/">Careers</a>
+                                    </div>
+                                    <br />
+                                    <div>
+                                    <a className="href10" href="https://www.gucci.com/us/en/st/legal-landing">Legal</a>
+                                    </div>
+                                    <br />
+                                    <div>
+                                    <a className="href11" href="https://www.gucci.com/us/en/st/privacy-landing">Privacy and Cookie Policy</a>
+                                    </div>
+                                    <br />
+                                    <div>
+                                    <a className="href12" href="https://www.gucci.com/us/en/st/corporate-information">Corporate Information</a>
+                                    </div>
+                                </div>
+                                <div>
+                                    <p className="pp333">GUCCI SERVICES</p>
+                                    <br />
+                                    <div>
+                                    <a className="href13" href="https://www.gucci.com/us/en//st/capsule/gifts-services">Discovewr our Services</a>
+                                    </div>
+                                    <br />
+                                    <div>
+                                    <a className="href14" href="https://www.gucci.com/us/en/st/capsule/book-an-appointment">Book an Appointment</a>
+                                    </div>
+                                    <br />
+                                    <a className="href15" href="https://www.gucci.com/us/en//st/collect-in-store">Collect in Store</a>
+                                    <br />
+                                    <p className="pp444">SIGN UP FOR GUCCI UPDATES</p>
+                                    <br />
+                                    <p className="pp555">By entering your email adsress below, you consent to receving our newsletter with </p>
+                                    <p className="pp666">acces to our latest collection, events  and initiatives.More details on this</p>
+                                    <p className="pp777"> are provided in our <a href="https://www.gucci.com/us/en/st/privacy-landing">Privacy Policy</a></p>
+                                </div>
+                                </div>
+                                <div>
+                                    <p className="pp888">GUCCI</p>
+                                </div>
                         </button>
 
 
